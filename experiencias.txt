@@ -1,7 +1,9 @@
 Minhas experiências acadêmicas e profissionais
 
-Minha trajetória acadêmica está relacionada ao aprendizado contínuo na área de tecnologia. Durante os estudos, venho desenvolvendo conhecimentos sobre lógica de programação, desenvolvimento de software, sistemas computacionais, versionamento de código e boas práticas para organização de projetos.
+Minha experiência acadêmica tem sido marcada pelo aprendizado prático na área de tecnologia. Durante esta atividade, trabalhei com conceitos importantes de Git e GitHub, como criação de repositório, clonagem de projeto, configuração de usuário, criação de arquivos, commits, branches e envio das alterações para um repositório remoto.
 
-As atividades práticas têm sido importantes para transformar teoria em experiência real. Trabalhar com ferramentas como Git, GitHub e VSCode ajuda a entender melhor como os projetos são criados, modificados, salvos e compartilhados em ambientes profissionais.
+Além da parte teórica, tive contato direto com situações reais que podem acontecer em um ambiente de desenvolvimento. Ao usar o terminal no Fedora, precisei lidar com erros de configuração do Git, problemas de autenticação no GitHub, criação acidental de diretórios duplicados e ajustes no fluxo de trabalho antes de conseguir organizar corretamente o projeto.
 
-No aspecto profissional, busco desenvolver uma postura responsável, organizada e focada na resolução de problemas. A tecnologia exige aprendizado constante, atenção aos detalhes e capacidade de adaptação. Por isso, considero importante praticar bastante, participar de projetos e melhorar continuamente minhas habilidades técnicas e comportamentais.
+Essa experiência mostrou a importância de entender não apenas os comandos, mas também o que cada erro significa. Mensagens como falta de identidade do Git, falha de autenticação por HTTPS e branches inexistentes ajudaram a compreender melhor o funcionamento do versionamento de código.
+
+No aspecto profissional, considero que esse tipo de prática é muito importante, pois simula situações comuns em ambientes de desenvolvimento e DevOps. Saber usar Git, GitHub, terminal Linux e ferramentas de autenticação é essencial para trabalhar em equipe, organizar projetos e manter um histórico confiável das alterações realizadas.

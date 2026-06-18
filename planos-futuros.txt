@@ -1,9 +1,11 @@
 Meus planos futuros
 
-Meus planos futuros estão ligados ao crescimento acadêmico e profissional na área de tecnologia. Pretendo continuar estudando programação, desenvolvimento de sistemas, banco de dados, redes, Git, GitHub e outras ferramentas utilizadas no mercado de trabalho.
+Meus planos futuros envolvem continuar evoluindo na área de tecnologia, principalmente em desenvolvimento de software, Linux, Git, GitHub e práticas relacionadas a DevOps. Esta atividade reforçou a importância de dominar ferramentas básicas que são usadas diariamente por profissionais da área.
 
-Também tenho como objetivo participar de projetos práticos que me ajudem a ganhar mais experiência e confiança. A prática é essencial para entender melhor os conceitos estudados e para desenvolver soluções mais completas e organizadas.
+Pretendo praticar mais o uso do Git no terminal, entendendo melhor comandos como clone, add, commit, branch, push, pull e status. Também quero aprender com mais profundidade como funcionam branches, autenticação com GitHub CLI, chaves SSH, tokens de acesso e boas práticas para evitar exposição de dados sensíveis.
 
-No futuro, quero atuar profissionalmente na área de tecnologia, contribuindo com projetos reais e aprendendo com profissionais mais experientes. Também pretendo me manter atualizado, pois a área muda rapidamente e exige dedicação constante.
+Outro objetivo é construir um portfólio no GitHub com projetos próprios. Ter repositórios organizados, com README bem escrito, histórico de commits e estrutura clara pode ajudar a demonstrar minha evolução e minhas habilidades para oportunidades acadêmicas e profissionais.
 
-Outro plano importante é construir um portfólio com projetos próprios, usando o GitHub para registrar minha evolução e demonstrar minhas habilidades.
+Também pretendo estudar mais sobre automação, servidores, infraestrutura e ferramentas usadas em ambientes reais. Trabalhar com Linux e terminal mostrou que resolver problemas técnicos exige paciência, atenção aos detalhes e capacidade de analisar mensagens de erro.
+
+No futuro, quero atuar em projetos reais de tecnologia, aplicando os conhecimentos adquiridos e melhorando continuamente minha prática como estudante e profissional da área.
