@@ -1,0 +1,5 @@
+Minhas linguagens de programação favoritas
+
+Minhas linguagens de programação favoritas são Python, JavaScript e Java.
+
+Python se destaca pela simplicidade e versatilidade. JavaScript é muito importante para o desenvolvimento web. Java é uma linguagem bastante utilizada em sistemas corporativos e no aprendizado de programação orientada a objetos.
