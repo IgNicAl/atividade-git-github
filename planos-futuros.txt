@@ -1,5 +1,9 @@
 Meus planos futuros
 
-Meus planos futuros envolvem continuar estudando tecnologia, aprimorar minhas habilidades em desenvolvimento de software e participar de projetos que contribuam para minha evolução profissional.
+Meus planos futuros estão ligados ao crescimento acadêmico e profissional na área de tecnologia. Pretendo continuar estudando programação, desenvolvimento de sistemas, banco de dados, redes, Git, GitHub e outras ferramentas utilizadas no mercado de trabalho.
 
-Também pretendo aprofundar meus conhecimentos em Git, GitHub, programação e boas práticas de desenvolvimento.
+Também tenho como objetivo participar de projetos práticos que me ajudem a ganhar mais experiência e confiança. A prática é essencial para entender melhor os conceitos estudados e para desenvolver soluções mais completas e organizadas.
+
+No futuro, quero atuar profissionalmente na área de tecnologia, contribuindo com projetos reais e aprendendo com profissionais mais experientes. Também pretendo me manter atualizado, pois a área muda rapidamente e exige dedicação constante.
+
+Outro plano importante é construir um portfólio com projetos próprios, usando o GitHub para registrar minha evolução e demonstrar minhas habilidades.

@@ -1,5 +1,7 @@
 Minhas experiências acadêmicas e profissionais
 
-Ao longo da minha trajetória acadêmica, venho desenvolvendo conhecimentos na área de tecnologia, especialmente em temas relacionados a programação, versionamento de código e desenvolvimento de projetos.
+Minha trajetória acadêmica está relacionada ao aprendizado contínuo na área de tecnologia. Durante os estudos, venho desenvolvendo conhecimentos sobre lógica de programação, desenvolvimento de software, sistemas computacionais, versionamento de código e boas práticas para organização de projetos.
 
-No ambiente profissional, busco aplicar esses conhecimentos de forma prática, aprendendo com desafios reais e melhorando minhas habilidades técnicas e organizacionais.
+As atividades práticas têm sido importantes para transformar teoria em experiência real. Trabalhar com ferramentas como Git, GitHub e VSCode ajuda a entender melhor como os projetos são criados, modificados, salvos e compartilhados em ambientes profissionais.
+
+No aspecto profissional, busco desenvolver uma postura responsável, organizada e focada na resolução de problemas. A tecnologia exige aprendizado constante, atenção aos detalhes e capacidade de adaptação. Por isso, considero importante praticar bastante, participar de projetos e melhorar continuamente minhas habilidades técnicas e comportamentais.

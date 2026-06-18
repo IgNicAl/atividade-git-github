@@ -1,20 +1,24 @@
 # Atividade Git e GitHub
 
-Este repositório foi criado para a atividade prática de Git e GitHub.
+Este repositório foi criado para a atividade prática da disciplina, com o objetivo de exercitar o uso básico do Git e do GitHub.
 
-## Objetivo
+## Objetivo da atividade
 
-Praticar comandos básicos do Git, criação de repositório no GitHub, clone do projeto, criação de arquivos, commits e uso de branches.
+A atividade consiste em criar um repositório no GitHub, clonar o projeto para a máquina local, configurar o Git, adicionar arquivos, realizar commits e trabalhar com branches.
 
-## Arquivos do repositório
+## Conteúdo do repositório
 
-- `experiencias.txt`: texto sobre experiências acadêmicas e profissionais.
-- `planos-futuros.txt`: texto sobre planos futuros.
-- `linguagens-favoritas.txt`: texto sobre linguagens de programação favoritas.
+O repositório contém três arquivos de texto:
+
+- `experiencias.txt`: apresenta um resumo sobre experiências acadêmicas e profissionais.
+- `planos-futuros.txt`: descreve objetivos e planos futuros na área de tecnologia.
+- `linguagens-favoritas.txt`: fala sobre linguagens de programação favoritas e seus usos.
 
 ## Branches
 
-Este repositório contém a branch principal `main` e duas branches adicionais:
+Além da branch principal `main`, foram criadas duas branches adicionais:
 
 - `experiencias`
 - `planos`
+
+Essas branches demonstram o uso de ramificações no Git, permitindo organizar alterações e versões diferentes do projeto.
